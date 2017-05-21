@@ -7,4 +7,3 @@ TODO:
 
 * Update to latest EOT 2016 data (they have more stuff up til May)
 * Look at our own crawling infrastructure
-* Compare coverage to internal DNS data
