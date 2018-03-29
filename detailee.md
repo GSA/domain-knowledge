@@ -2,7 +2,7 @@
 
 We're looking for a detailee to GSA's Technology Transformation Services (TTS), in the Office of Products and Programs (OPP), who can drive [this project](project.md) forward in a full-time capacity.
 
-### What the detaille would do
+### What the detailee would do
 
 The detailee would own the development and technical direction of an **infrastructure project** to better discover, collect, and analyze information about the federal government's substantial online surface area of internet-facing services.
 
