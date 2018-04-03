@@ -12,8 +12,8 @@ The work will include:
 
 * Identifying useful technical information to collect about internet-facing federal services, and implementing software to collect this information.
 * Identifying new data sources for discovering what internet-facing services the federal government operates, and implementing support for these sources.
-* Identifying ways to improve the speed and scale of the underying infrastructure, and implementing these technical improvements.
-* Deepening our partnerships with the Department of Homeland Security, the White House Office of Management and Budget, and other federal agencies, in support of government-wide initiatives and the dissemination of actionable data to the federal enterpirse.
+* Identifying ways to improve the speed and scale of the underlying infrastructure, and implementing these technical improvements.
+* Deepening our partnerships with the Department of Homeland Security, the White House Office of Management and Budget, and other federal agencies, in support of government-wide initiatives and the dissemination of actionable data to the federal enterprise.
 * Supporting open source reuse of this infrastructure with other organizations.
 
 ### Requirements
@@ -22,7 +22,7 @@ From a technical perspective, the detailee should:
 
 * Have significant experience with software engineering, particularly in developing "backend" systems and the use of command line tools. Experience with "frontend" and web development is also very helpful.
 * Be very comfortable writing Python code. Proficiency with JavaScript is also very helpful.
-* Have significant experience with internet protocols and concepts. Expertise with every major apect of the internet is definitely _not_ required. However, protocols such as HTTP and DNS should be reasonably well-understood, and the detailee should be able to quickly learn about new protocols as they become relevant.
+* Have significant experience with internet protocols and concepts. Expertise with every major aspect of the internet is definitely _not_ required. However, protocols such as HTTP and DNS should be reasonably well-understood, and the detailee should be able to quickly learn about new protocols as they become relevant.
 * Have significant experience with web platform concepts. Expertise with every web platform feature is definitely _not_ required. However, concepts such as CSS, cookies, and referrer headers should be reasonably well-understood. The detailee should be familiar with browser development tools and comfortable using them to understand the mechanics of web services.
 
 
