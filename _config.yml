@@ -1,10 +1,10 @@
-title: Site title
+title: Domain Knowledge
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: 18F
-  repository: federalist-uswds-template
+  organization: GSA
+  repository: domain-knowledge
   default_branch: master
 
 theme: uswds-jekyll
